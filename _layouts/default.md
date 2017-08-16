@@ -1,6 +1,3 @@
----
----
-
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
@@ -20,7 +17,7 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          ![LOGO]({{ "/assets/img/AppSecIL_logo.png" | relative_url }})
+          <img src="{{ "/assets/img/AppSecIL_logo.png" | relative_url }}" />
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
         </header>
@@ -36,8 +33,8 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
-          and <a href="https://www.owasp.org/index.php/Israel">OWASP Israel Chapter</a></p>
+        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a>
+          and <a href="https://www.owasp.org/index.php/Israel" target="_blank">OWASP Israel Chapter</a></p>
       </footer>
     </div>
 
