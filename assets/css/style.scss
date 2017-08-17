@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+#header_wrap { 
+  background-color: slategray;
+}
+
+#footer_wrap {
+  background-color: slategray;
+}
