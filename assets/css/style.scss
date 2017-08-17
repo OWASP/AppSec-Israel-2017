@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background-color: slategray;
+}
+
 #header_wrap { 
   background: slategray;
 }
