@@ -7,7 +7,7 @@ The annual OWASP AppSec Israel Conference is the largest conference in Israel fo
 
 But AppSecIL is not just for security experts!
 
-Aimed at developers, testers, architects, product designers, and managers - anyone involved with the software lifecycle is welcome, regardless of type of software, website, mobile app, or any other type of application.
+Over 700 developers, testers, architects, product designers, and managers will attend this year - anyone involved with the software lifecycle is welcome, regardless of type of software, website, mobile app, or any other type of application.
 
 If you are responsible for, or involved with:
 
@@ -18,10 +18,13 @@ If you are responsible for, or involved with:
 * application security
 * software development
 * quality assurance
-* software maintenance or operations
+* software maintenance or operations  
+
 ... you should join us at AppSecIL!
 
-AppSec Israel 2017 will have two lecture tracks from an amazing group of speakers, and additional activities such as a Capture the Flag competition. We also host a sponsors pavilion for products and services relevant to application security and developers.
+AppSec Israel 2017 will have two lecture tracks from an amazing group of speakers, and additional activities such as a Capture the Flag competition. We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.
+
+## REGISTRATION WILL BE OPEN SHORTLY. PLEASE CHECK BACK SOON. 
 
 
 ### Location and Time

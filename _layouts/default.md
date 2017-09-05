@@ -33,6 +33,8 @@
       <footer class="inner">
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a>
           and <a href="https://www.owasp.org/index.php/Israel" target="_blank">OWASP Israel Chapter</a></p>
+          <br/>
+          {% include Footer.md %}
       </footer>
     </div>
 
