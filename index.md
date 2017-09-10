@@ -25,16 +25,7 @@ If you are responsible for, or involved with:
 
 AppSec Israel 2017 will have two lecture tracks from an amazing group of speakers, and additional activities such as a Capture the Flag competition. We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.
 
-### REGISTRATION WILL BE OPEN SHORTLY. PLEASE CHECK BACK SOON. 
+#### REGISTRATION WILL BE OPEN SHORTLY. PLEASE CHECK BACK SOON. 
 
-
-#### Location and Time
-
-The annual OWASP AppSec Israel 2017 conference will be held this year in The College of Management (Michlala l’Minhal), in Rishon LeZion (about 20 minutes south of Tel Aviv), on Wednesday, October 18th, 2017, from 9AM to 6PM.
-
-The address is Eli Weisel 2, Rishon LeZiyon. There is plenty of parking available, entrance is via gate 4.
-
-For directions and public transportation options, please see the information at this link: http://www.colman.ac.il/about/roads/Pages/default.aspx
-
-Please use the #AppSecIL hashtag on Twitter.
+Don't forget to use the #AppSecIL hashtag on social media!
 
