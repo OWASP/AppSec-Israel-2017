@@ -1,10 +1,10 @@
-{% assign baseUrl = site.url %}{{ site.url }}<!DOCTYPE html>
+{% if site.safe %}{% assign baseUrl = "/AppSec-Israel-2017/" %}{% else %}{% assign baseUrl = "/" %}{% endif %}<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
+    <meta name="description" content="{{ site.title }} : {{ site.description }}">
 
     <title>{{ page.title }}</title>
 
@@ -39,16 +39,12 @@
 </div>
 
 <section style="margin: 20px">
-    <h4> CODE OF CONDUCT </h4>
-    Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender,
-    race, religion, etc.. We do not tolerate harassment of conference participants in any form. Sexual language and
-    imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online
-    media. Conference participants violating these rules may be sanctioned or expelled from the conference without
-    recompense at the discretion of the conference organisers. <a href="CoC.html">See the full version here</a>.
+     {% include footer.html %}
 </section>
 
 <footer class="footer">
     <div>&copy; OWASP AppSec Israel 2017</div>
+    <div>AppSec Israel is an [OWASP conference](https://www.owasp.org/) hosted by [OWASP Israel Chapter](https://www.owasp.org/index.php/Israel).</div>
 </footer>
 
 </body>
