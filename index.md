@@ -3,7 +3,8 @@
 
 ## Welcome to OWASP's AppSec Israel 2017! 
 
-The annual OWASP AppSec Israel Conference is the largest conference in Israel for application security, and regularly draws hundreds of participants. [Over 650 people attended last year](https://www.owasp.org/index.php/AppSec_Israel_2016)! 
+The annual OWASP AppSec Israel Conference is the largest conference in Israel for application security,  
+and regularly draws hundreds of participants. [Over 650 people attended last year](https://www.owasp.org/index.php/AppSec_Israel_2016)! 
 
 But AppSecIL is not just for security experts!
 
@@ -24,10 +25,10 @@ If you are responsible for, or involved with:
 
 AppSec Israel 2017 will have two lecture tracks from an amazing group of speakers, and additional activities such as a Capture the Flag competition. We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.
 
-## REGISTRATION WILL BE OPEN SHORTLY. PLEASE CHECK BACK SOON. 
+### REGISTRATION WILL BE OPEN SHORTLY. PLEASE CHECK BACK SOON. 
 
 
-### Location and Time
+#### Location and Time
 
 The annual OWASP AppSec Israel 2017 conference will be held this year in The College of Management (Michlala l’Minhal), in Rishon LeZion (about 20 minutes south of Tel Aviv), on Wednesday, October 18th, 2017, from 9AM to 6PM.
 
