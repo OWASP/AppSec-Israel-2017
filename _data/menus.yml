@@ -1,9 +1,11 @@
 - title: Home
-  url  :
-- title: Activities
-  url  : Activities
+  url  : /
+- title: Agenda
+  url  : /Agenda
 - title: Training
   url  : Training
+- title: Activities
+  url  : Activities
 - title: Sponsors
   url  : Sponsors
 - title: Team
