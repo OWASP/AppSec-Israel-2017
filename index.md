@@ -28,15 +28,16 @@ AppSec Israel 2017 will have two lecture tracks from an amazing group of speaker
 We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.
 </section>
 
-#### REGISTRATION WILL BE OPEN SHORTLY. PLEASE CHECK BACK SOON. 
+#### REGISTRATION WILL BE OPEN SHORTLY. PLEASE CHECK BACK SOON.  
 
-Don't forget to use the [#AppSecIL hashtag](https://twitter.com/hashtag/AppSecIL) on social media!
+Don't forget to use the [#AppSecIL hashtag](https://twitter.com/hashtag/AppSecIL) on social media!   
 
 
 ### Hosted by:  
 
-![OWASP Logo](assets/img/owasp_logo.jpg =20em)   
-style="width: 20em; margin-left: -0.75em;">
+<a href="https://owasp.org">
+  <img src="assets/img/owasp_logo.jpg" style="width:20em; margin-left:-0.75em;">
+</a>
 
 <p>
 The Open Web Application Security Project (OWASP) is an open-source, not-for-profit application security organization made up of corporations, educational organizations, and individuals from around the world. Providing free, vendor-neutral, practical, cost-effective application security guidance, the OWASP Foundation is the de-facto standards body for web application security used by developers and organizations globally. Learn more about OWASP and membership benefits.
