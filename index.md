@@ -35,7 +35,7 @@ Don't forget to use the [#AppSecIL hashtag](https://twitter.com/hashtag/AppSecIL
 
 ### Hosted by:  
 
-![OWASP Logo](assets/img/owasp_logo.jpg)   
+![OWASP Logo](assets/img/owasp_logo.jpg =20em)   
 style="width: 20em; margin-left: -0.75em;">
 
 <p>
