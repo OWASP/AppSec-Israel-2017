@@ -23,10 +23,10 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
   {% for sponsor in site.data.sponsors.diamond %}
     <span class="sponsor diamond-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == "" %}
+        {% if sponsor.image == blank %}
           <p>{{ sponsor.name }}</p>
         {% else %} 
-          <img src="assets/img/Sponsors/{{ sponsor.image }}" width="500" height="200"> 
+          <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
         {% endif %}
       </a>
     </span>
@@ -38,7 +38,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
   {% for sponsor in site.data.sponsors.platinum %}
     <span class="sponsor platinum-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == "" %}
+        {% if sponsor.image == blank %}
           <p>{{ sponsor.name }}</p>
         {% else %} 
           <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
@@ -54,7 +54,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
   {% for sponsor in site.data.sponsors.gold %}
     <span class="sponsor gold-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == "" %}
+        {% if sponsor.image == blank %}
           <p>{{ sponsor.name }}</p>
         {% else %} 
           <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
@@ -70,7 +70,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
   {% for sponsor in site.data.sponsors.silver %}
     <span class="sponsor silver-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == "" %}
+        {% if sponsor.image == blank %}
           <p>{{ sponsor.name }}</p>
         {% else %} 
           <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
@@ -84,9 +84,11 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 <div>
   {% for sponsor in site.data.sponsors.alacarte %}
     <span class="sponsor alacarte-sponsor">
-      <span>{{ sponsor.type }}</span>
+      <span>{{ sponsor.type }}</span>   
+      
+--- 
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == "" %}
+        {% if sponsor.image == blank %}
           <p>{{ sponsor.name }}</p>
         {% else %} 
           <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
