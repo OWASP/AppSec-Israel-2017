@@ -22,9 +22,12 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 <div>
   {% for sponsor in site.data.sponsors.diamond %}
     <span class="sponsor diamond-sponsor">
-      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
-        <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
-        <p>{{ sponsor.name }}</p>
+      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
+        {% if sponsor.image == "" %}
+          <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+        {% else %} 
+          <p>{{ sponsor.name }}</p>
+        {% endif %}
       </a>
     </span>
 {% endfor %}
@@ -34,9 +37,12 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 <div>
   {% for sponsor in site.data.sponsors.platinum %}
     <span class="sponsor platinum-sponsor">
-      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
-        <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
-        <p>{{ sponsor.name }}</p>
+      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
+        {% if sponsor.image == "" %}
+          <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+        {% else %} 
+          <p>{{ sponsor.name }}</p>
+        {% endif %}
       </a>
     </span>
 {% endfor %}
@@ -47,9 +53,12 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 <div>
   {% for sponsor in site.data.sponsors.gold %}
     <span class="sponsor gold-sponsor">
-      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
-        <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
-        <p>{{ sponsor.name }}</p>
+      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
+        {% if sponsor.image == "" %}
+          <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+        {% else %} 
+          <p>{{ sponsor.name }}</p>
+        {% endif %}
       </a>
     </span>
 {% endfor %}
@@ -60,10 +69,12 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 <div>
   {% for sponsor in site.data.sponsors.silver %}
     <span class="sponsor silver-sponsor">
-      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
-        <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
-        <p>{{ sponsor.name }}</p>
-        
+      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
+        {% if sponsor.image == "" %}
+          <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+        {% else %} 
+          <p>{{ sponsor.name }}</p>
+        {% endif %}
       </a>
     </span>
 {% endfor %}
@@ -73,10 +84,13 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 <div>
   {% for sponsor in site.data.sponsors.alacarte %}
     <span class="sponsor alacarte-sponsor">
-      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
-        <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
-        <p>{{ sponsor.name }}</p>
-        <p>{{ sponsor.type }}</p>
+      <p>{{ sponsor.type }}</p>
+      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
+        {% if sponsor.image == "" %}
+          <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+        {% else %} 
+          <p>{{ sponsor.name }}</p>
+        {% endif %}
       </a>
     </span>
 {% endfor %}
