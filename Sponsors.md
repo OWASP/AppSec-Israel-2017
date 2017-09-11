@@ -54,7 +54,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
   {% for sponsor in site.data.sponsors.gold %}
     <span class="sponsor gold-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == blank %}
+        {% if sponsor.image == %}
           <p>{{ sponsor.name }}</p>
         {% else %} 
           <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
@@ -70,7 +70,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
   {% for sponsor in site.data.sponsors.silver %}
     <span class="sponsor silver-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == blank %}
+        {% if sponsor.image == '' %}
           <p>{{ sponsor.name }}</p>
         {% else %} 
           <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
@@ -88,7 +88,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
       
 --- 
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == blank %}
+        {% if sponsor.image == " " %}
           <p>{{ sponsor.name }}</p>
         {% else %} 
           <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
