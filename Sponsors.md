@@ -80,7 +80,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 {% endfor %}
 </div>
 
-####### A La Carte Sponsorships
+###### A La Carte Sponsorships
 <div>
   {% for sponsor in site.data.sponsors.alacarte %}
     <span class="sponsor alacarte-sponsor">
