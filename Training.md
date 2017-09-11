@@ -13,9 +13,9 @@ The Training Day is free to attend, however [registration is required](Register)
 **Location:** [College of Management in Rishon](Location).
 
 We will have a lunch break between 12:00-13:30.   
-There is an adjacent food court, and several other great restaurants nearby.  
+There is an adjacent food court, and several other great restaurants nearby.   
 
-Alternatively, you are welcome to pack your own lunch.  
+Alternatively, you are welcome to pack your own lunch.    
 
 Coffee and cold drinks will be provided throughout the day, as well as an afternoon snack break.   
 
@@ -31,6 +31,6 @@ In addition to AppSecIL, OWT Trainings will also take place in [Boston](https://
 
 In accordance with the organization's [2017 strategic goal](https://www.owasp.org/index.php/OWASP_Strategic_Goals), we are targeting an audience of 500 developers for this Training Day, and it will be delivered by a Professional Trainer, hired by OWASP. 
 
-### Registration  
+#### Registration  
 **A link to register for free will be here once registration is opened.**
 
