@@ -12,20 +12,20 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Exo+2|Montserrat:100,200,300,400" rel="stylesheet">
-    <link type="text/css" rel="stylesheet" href="{{ site.url }}assets/css/style.css?_={{ site.time | date: '%s' }}">
+    <link type="text/css" rel="stylesheet" href="assets/css/style.css?_={{ site.time | date: '%s' }}">
 </head>
 <body>
 
 <header>
     <div class="top">
-        <a href="{{ site.url }}" class="logo">
+        <a href="" class="logo">
         </a>
     </div>
     <nav>
         <ul class="nav navbar-nav">
             {% for menu in site.data.menus %}
             <li>
-                <a href="{{ site.url }}{{menu.url}}">{{menu.title}}</a>
+                <a href="{{menu.url}}">{{menu.title}}</a>
             </li>
             {% endfor %}
         </ul>
