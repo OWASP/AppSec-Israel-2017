@@ -84,7 +84,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 <div>
   {% for sponsor in site.data.sponsors.alacarte %}
     <span class="sponsor alacarte-sponsor">
-      <p>{{ sponsor.type }}</p>
+      <span>{{ sponsor.type }}</span>
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
         {% if sponsor.image == "" %}
           <p>{{ sponsor.name }}</p>
