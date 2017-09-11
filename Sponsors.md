@@ -33,7 +33,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 
 ### Gold Sponsors 
 <div>
-  {% for sponsor in site.data.sponsors.diamond %}
+  {% for sponsor in site.data.sponsors.gold %}
     <span class="sponsor gold-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
         <img src="assets/img/{{ sponsor.image }}"> {{ sponsor.name }} 
