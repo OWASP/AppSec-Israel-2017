@@ -12,10 +12,12 @@
 Attending AppSec Israel is completely free, for both the [Conference](Agenda) and the [Training](Training).   
 However, it is absolutely required to register ahead of time.   
 
-**Please note that you must register for each day you wish to attend!**  
+***Please note that you must register for each day you wish to attend!***  
 As space is limited, please do not register if you are not planning to attend, and don't register yourself multiple times.
 
-### When registering, there are several types of tickets: 
+---
+
+#### ***When registering, there are several types of tickets:*** 
 
 #### Training Day
 October 17th: A full day of free security training for developers, QA engineers, and anyone new to the AppSec field. 
