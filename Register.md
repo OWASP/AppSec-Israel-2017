@@ -32,3 +32,18 @@ We also host a sponsors pavilion with vendor booths to promote the latest advanc
 <br />
 <a href="https://appsecil2017.eventbrite.com/?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=37273659519" alt="Eventbrite - OWASP AppSec Israel 2017" /></a>
 </p> 
+
+---
+
+### Membership 
+
+While you are registering, please consider [joining OWASP as an individual member](https://www.owasp.org/index.php/Individual_Member). 
+As a not-for-profit organization, OWASP has no direct income other than sponsorships and membership fees.  
+For only 50 USD, you can support this organization, help ensure we can continue to deliver great content,  
+and you also get various member benefits (including a 50 USD discount for Global Conferences).  
+[Learn more about OWASP and membership benefits](https://www.owasp.org/index.php/Individual_Member).  
+
+The Open Web Application Security Project (OWASP) is an open-source, not-for-profit application security   
+organization made up of corporations, educational organizations, and individuals from around the world.   
+Providing free, vendor-neutral, practical, cost-effective application security guidance, the OWASP Foundation   
+is the de-facto standards body for web application security used by developers and organizations globally. 
