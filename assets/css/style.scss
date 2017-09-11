@@ -271,7 +271,38 @@ footer {
   }
 }
 
+#sponsor {
+    margin-left: auto;
+    margin-right: auto;
+    img {
+      border: none;
+      vertical-align: middle;
+    }
+}
 
+#diamond-sponsor img {
+  width: 500px;
+  height: 200px;
+}
 
+#platinum-sponsor img {
+  width: 500px;
+  height: 200px;
+}
+
+#gold-sponsor img {
+  width: 375px;
+  height: 150px;
+}
+
+#silver-sponsor img {
+  width: 280px;
+  height: 112px;
+}
+
+#alacarte-sponsor img {
+  width: 180px;
+  height: 80px;
+}
 
 
