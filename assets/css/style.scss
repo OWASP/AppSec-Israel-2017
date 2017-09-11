@@ -271,7 +271,7 @@ footer {
   }
 }
 
-#sponsor {
+.sponsor {
     margin-left: auto;
     margin-right: auto;
     img {
@@ -280,29 +280,37 @@ footer {
     }
 }
 
-#diamond-sponsor img {
+.diamond-sponsor {
   width: 500px;
   height: 200px;
 }
 
-#platinum-sponsor img {
+.platinum-sponsor {
   width: 500px;
   height: 200px;
 }
 
-#gold-sponsor img {
+.gold-sponsor {
   width: 375px;
   height: 150px;
 }
 
-#silver-sponsor img {
+.silver-sponsor {
   width: 280px;
   height: 112px;
 }
 
-#alacarte-sponsor img {
+.alacarte-sponsor {
   width: 180px;
-  height: 80px;
+  height: 116px;
+  
+  span {
+    margin-top: 0px; 
+    font-size: 1.5em; 
+    font-family: sans-serif; 
+    line-height: 1.3; 
+    color: black;
+  }
 }
 
 
