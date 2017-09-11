@@ -280,22 +280,22 @@ footer {
     }
 }
 
-.diamond-sponsor {
+.diamond-sponsor img {
   width: 500px;
   height: 200px;
 }
 
-.platinum-sponsor {
+.platinum-sponsor img {
   width: 500px;
   height: 200px;
 }
 
-.gold-sponsor {
+.gold-sponsor img {
   width: 375px;
   height: 150px;
 }
 
-.silver-sponsor {
+.silver-sponsor img {
   width: 280px;
   height: 112px;
 }
@@ -311,6 +311,8 @@ footer {
     line-height: 1.3; 
     color: black;
   }
+  img {
+    width: 180px;
+    height: 80px;
+  }
 }
-
-
