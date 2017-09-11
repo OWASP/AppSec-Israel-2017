@@ -1,4 +1,4 @@
-{% if site.safe %}{% assign baseUrl = "/AppSec-Israel-2017/" %}{% else %}{% assign baseUrl = "/" %}{% endif %}<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
     <meta charset='utf-8'>
@@ -12,20 +12,20 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Exo+2|Montserrat:100,200,300,400" rel="stylesheet">
-    <link type="text/css" rel="stylesheet" href="{{baseUrl}}assets/css/style.css?_={{ site.time | date: '%s' }}">
+    <link type="text/css" rel="stylesheet" href="{{ site.url }}assets/css/style.css?_={{ site.time | date: '%s' }}">
 </head>
 <body>
 
 <header>
     <div class="top">
-        <a href="{{baseUrl}}" class="logo">
+        <a href="{{ site.url }}" class="logo">
         </a>
     </div>
     <nav>
         <ul class="nav navbar-nav">
             {% for menu in site.data.menus %}
             <li>
-                <a href="{{baseUrl}}{{menu.url}}">{{menu.title}}</a>
+                <a href="{{ site.url }}{{menu.url}}">{{menu.title}}</a>
             </li>
             {% endfor %}
         </ul>
