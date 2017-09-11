@@ -1,0 +1,34 @@
+board: 
+- name: Avi D
+  title: Bounce Security
+  role: Conference Chair and OWASPIL Chairman
+  image: 
+- name: Or Katz
+  title: Akamai
+  role: Sponsor Relations
+  image: 
+- name: Ofer Maor
+  title: Synopsys
+  role: Support
+  image: 
+- name: Hemed Gur Ary
+  title: Vata
+  role: Activities
+  image: 
+- name: Dr. Yossi Oren
+  title: Ben Gurion University
+  role: Training Chair
+  image: 
+- name: Irene Abezgouz
+  title: Cymmetria
+  role: Content Chair
+  image: 
+
+volunteers:
+- name: Yigal Elefant
+  title: Independent 
+  role: Website
+- name: Tomer Zait
+  title: F5 Networks
+  role: Website 
+
