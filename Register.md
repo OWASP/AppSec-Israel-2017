@@ -27,5 +27,6 @@ We also host a sponsors pavilion with vendor booths to promote the latest advanc
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=37273659519&ref=etckt" frameborder="0" height="393" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 <p style="text-align:center; margin: 0 auto;">
+<br />
 <a href="https://appsecil2017.eventbrite.com/?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=37273659519" alt="Eventbrite - OWASP AppSec Israel 2017" /></a>
 </p> 
