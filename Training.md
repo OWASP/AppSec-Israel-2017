@@ -12,9 +12,9 @@ The Training Day is free to attend, however [registration is required](Register)
 **Time:** 9:00am - 5:00pm   
 **Location:** [College of Management in Rishon](Location).
 
-We will have a lunch break between 12:00-13:30. 
-There is an adjacent food court, and several other great restaurants nearby. We will provide a list of suggested places to eat shortly.
-Alternatively, you are welcome to pack your own lunch 
+We will have a lunch break between 12:00-13:30.   
+There is an adjacent food court, and several other great restaurants nearby. We will provide a list of suggested places to eat shortly.  
+Alternatively, you are welcome to pack your own lunch.  
 
 Coffee and cold drinks will be provided throughout the day, as well as an afternoon snack break.   
 
