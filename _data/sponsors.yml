@@ -47,12 +47,12 @@ silver:
   url  : https://www.safebreach.com/
   image: SafeBreach.png
 
-other:
+alacarte:
 - name : Checkmarx
-  alacarte: Lanyards
+  type : Lanyards
   url  : https://www.checkmarx.com/
   image: Checkmarx.png
 - name : PerimeterX
-  alacarte: Speaker Shirts
+  type : Speaker Shirts
   url  : 
   image: 
