@@ -26,7 +26,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
         {% if sponsor.image == "" %}
           <p>{{ sponsor.name }}</p>
         {% else %} 
-          <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+          <img src="assets/img/Sponsors/{{ sponsor.image }}" width=500 height=200> 
         {% endif %}
       </a>
     </span>
