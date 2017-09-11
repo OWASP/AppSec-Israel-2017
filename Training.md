@@ -25,8 +25,10 @@ Coffee and cold drinks will be provided throughout the day, as well as an aftern
 
 The AppSecIL Training Day is part of the global [OWASP World Tour](https://www.owasp.org/index.php/OWASP_World_Tour) (OWT).   
 OWASP is committed to improving the quality of the world's software security.   
-We advocate approaching application security as a people, process, and technology problem because the most effective approaches to application security include improvements in all of these areas.  
-As part of this Philosophy, OWASP is offering basic AppSec training for Developers in hopes of including security throughout the entire SDLC. 
+We advocate approaching application security as a people, process, and technology problem   
+because the most effective approaches to application security include improvements in all of these areas.  
+As part of this Philosophy, OWASP is offering basic AppSec training for Developers in   
+hopes of including security throughout the entire SDLC. 
 In addition to AppSecIL, OWT Trainings will also take place in [Boston](https://www.owasp.org/index.php/2017_Global_World_Tour_Boston) and [Tokyo](https://www.owasp.org/index.php/2017_OWASP_World_Tour_Tokyo).
 
 In accordance with the organization's [2017 strategic goal](https://www.owasp.org/index.php/OWASP_Strategic_Goals), we are targeting an audience of 500 developers for this Training Day, and it will be delivered by a Professional Trainer, hired by OWASP. 
