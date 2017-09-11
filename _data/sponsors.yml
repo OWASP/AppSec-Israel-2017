@@ -1,0 +1,12 @@
+- tier: diamond
+  sponsors:
+  - name: GE Digital
+    url: http://ge.com
+    image: ge_logo.com
+- tier: platinum
+  sponsors:
+- tier: gold
+  sponsors:
+  - name : Imperva
+    url  : https://imperva.com/
+    image: imperva_logo.jpg

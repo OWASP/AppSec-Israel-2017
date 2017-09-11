@@ -8,7 +8,8 @@ and regularly draws hundreds of participants. [Over 650 people attended last yea
 
 But AppSecIL is not just for security experts!
 
-Over 700 developers, testers, architects, product designers, and managers will attend this year - anyone involved with the software lifecycle is welcome, regardless of type of software, website, mobile app, or any other type of application.
+Over 700 developers, testers, architects, product designers, and managers will attend this year.  
+Everyone involved with the software lifecycle is welcome, regardless of type of software, website, mobile app, or any other type of application.
 
 If you are responsible for, or involved with:
 
@@ -23,18 +24,23 @@ If you are responsible for, or involved with:
 
 ... you should join us at AppSecIL!
 
-AppSec Israel 2017 will have two lecture tracks from an amazing group of speakers, and additional activities such as a Capture the Flag competition. We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.
+AppSec Israel 2017 will have two lecture tracks from an amazing group of speakers, and additional activities such as a Capture the Flag competition.   
+We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.   
 
-### REGISTRATION WILL BE OPEN SHORTLY. PLEASE CHECK BACK SOON. 
+Don't forget to use the [#AppSecIL hashtag](https://twitter.com/hashtag/AppSecIL) on social media!     
 
+#### REGISTRATION WILL BE OPEN SHORTLY. PLEASE CHECK BACK SOON.  
 
-#### Location and Time
+---
 
-The annual OWASP AppSec Israel 2017 conference will be held this year in The College of Management (Michlala l’Minhal), in Rishon LeZion (about 20 minutes south of Tel Aviv), on Wednesday, October 18th, 2017, from 9AM to 6PM.
+### Hosted by:  
 
-The address is Eli Weisel 2, Rishon LeZiyon. There is plenty of parking available, entrance is via gate 4.
+<a href="https://owasp.org">
+  <img src="assets/img/owasp_logo.jpg" style="width:20em; margin-left:-0.75em;">
+</a>   
 
-For directions and public transportation options, please see the information at this link: http://www.colman.ac.il/about/roads/Pages/default.aspx
-
-Please use the #AppSecIL hashtag on Twitter.
-
+The Open Web Application Security Project (OWASP) is an open-source, not-for-profit application security   
+organization made up of corporations, educational organizations, and individuals from around the world.    
+Providing free, vendor-neutral, practical, cost-effective application security guidance, the OWASP Foundation   
+is the de-facto standards body for web application security used by developers and organizations globally.   
+[Learn more about OWASP and membership benefits](https://www.owasp.org/index.php/Membership).  
