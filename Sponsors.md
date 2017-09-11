@@ -23,26 +23,62 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
   {% for sponsor in site.data.sponsors.diamond %}
     <span class="sponsor diamond-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
-        <img src="assets/img/{{ sponsor.image }}"> {{ sponsor.name }} 
+        <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+        <p>{{ sponsor.name }}</p>
       </a>
     </span>
 {% endfor %}
 </div>
 
-### Platinum Sponsors
+#### Platinum Sponsors
+<div>
+  {% for sponsor in site.data.sponsors.platinum %}
+    <span class="sponsor platinum-sponsor">
+      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
+        <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+        <p>{{ sponsor.name }}</p>
+      </a>
+    </span>
+{% endfor %}
+</div>
 
-### Gold Sponsors 
+
+##### Gold Sponsors 
 <div>
   {% for sponsor in site.data.sponsors.gold %}
     <span class="sponsor gold-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
-        <img src="assets/img/{{ sponsor.image }}"> {{ sponsor.name }} 
+        <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+        <p>{{ sponsor.name }}</p>
       </a>
     </span>
 {% endfor %}
 </div>
 
 
+###### Silver Sponsors
+<div>
+  {% for sponsor in site.data.sponsors.silver %}
+    <span class="sponsor silver-sponsor">
+      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
+        <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+        <p>{{ sponsor.name }}</p>
+        
+      </a>
+    </span>
+{% endfor %}
+</div>
 
+####### A La Carte Sponsorships
+<div>
+  {% for sponsor in site.data.sponsors.alacarte %}
+    <span class="sponsor alacarte-sponsor">
+      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
+        <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+        <p>{{ sponsor.name }}</p>
+        <p>{{ sponsor.type }}</p>
+      </a>
+    </span>
+{% endfor %}
+</div>
 
-### Silver Sponsors
