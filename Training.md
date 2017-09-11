@@ -31,7 +31,8 @@ As part of this Philosophy, OWASP is offering basic AppSec training for Develope
 hopes of including security throughout the entire SDLC. 
 In addition to AppSecIL, OWT Trainings will also take place in [Boston](https://www.owasp.org/index.php/2017_Global_World_Tour_Boston) and [Tokyo](https://www.owasp.org/index.php/2017_OWASP_World_Tour_Tokyo).
 
-In accordance with the organization's [2017 strategic goal](https://www.owasp.org/index.php/OWASP_Strategic_Goals), we are targeting an audience of 500 developers for this Training Day, and it will be delivered by a Professional Trainer, hired by OWASP. 
+In accordance with the organization's [2017 strategic goal](https://www.owasp.org/index.php/OWASP_Strategic_Goals), we are targeting an audience of 500 developers   
+for this Training Day, and it will be delivered by a Professional Trainer, hired by OWASP. 
 
 #### Registration  
 **A link to register for free will be here once registration is opened.**
