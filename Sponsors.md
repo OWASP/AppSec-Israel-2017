@@ -38,8 +38,8 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
   {% for sponsor in site.data.sponsors.platinum %}
     <span class="sponsor platinum-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == blank %}
-          <p>{{ sponsor.name }}</p>
+        {% if sponsor.image == %}
+          <span>{{ sponsor.name }}</span>
         {% else %} 
           <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
         {% endif %}
@@ -55,7 +55,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
     <span class="sponsor gold-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
         {% if sponsor.image == %}
-          <p>{{ sponsor.name }}</p>
+          <span>{{ sponsor.name }}</span>
         {% else %} 
           <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
         {% endif %}
@@ -70,8 +70,8 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
   {% for sponsor in site.data.sponsors.silver %}
     <span class="sponsor silver-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == '' %}
-          <p>{{ sponsor.name }}</p>
+        {% if sponsor.image == %}
+          <span>{{ sponsor.name }}</span>
         {% else %} 
           <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
         {% endif %}
@@ -84,12 +84,10 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 <div>
   {% for sponsor in site.data.sponsors.alacarte %}
     <span class="sponsor alacarte-sponsor">
-      <span>{{ sponsor.type }}</span>   
-      
---- 
+      <span>{{ sponsor.type }}</span>  <hr />
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == " " %}
-          <p>{{ sponsor.name }}</p>
+        {% if sponsor.image == %}
+          <span>{{ sponsor.name }}</span>
         {% else %} 
           <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
         {% endif %}
