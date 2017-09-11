@@ -4,7 +4,7 @@
 @import "reset.css";
 
 $light: #2bb4d3;
-$medium: #055e6d;
+$medium: #055078;
 $dark: #152f30;
 
 body {
@@ -271,7 +271,49 @@ footer {
   }
 }
 
+.sponsor {
+    margin-left: auto;
+    margin-right: auto;
+    img {
+      border: none;
+      vertical-align: middle;
+    }
+}
 
+.diamond-sponsor img {
+  width: 500px;
+  height: 200px;
+}
 
+.platinum-sponsor img {
+  width: 500px;
+  height: 200px;
+}
 
+.gold-sponsor img {
+  width: 375px;
+  height: 150px;
+}
 
+.silver-sponsor img {
+  width: 280px;
+  height: 112px;
+}
+
+.alacarte-sponsor {
+  width: 180px;
+  height: 116px;
+  overflow: none;
+  
+  span {
+    margin-top: 0px; 
+    font-size: 1.5em; 
+    font-family: sans-serif; 
+    line-height: 1.3; 
+    color: black;
+  }
+  img {
+    width: 180px;
+    height: 80px;
+  }
+}
