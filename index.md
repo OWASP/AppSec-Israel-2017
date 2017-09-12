@@ -29,7 +29,7 @@ We also host a sponsors pavilion with vendor booths to promote the latest advanc
 
 Don't forget to use the [#AppSecIL hashtag](https://twitter.com/hashtag/AppSecIL) on social media!     
 
-**Attendance is free, but [registration is required](Register)! 
+**Attendance is free, but [registration is required](Register)!**
 
 ---
 
