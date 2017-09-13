@@ -20,6 +20,14 @@ AppSec Israel 2017 was organized by:
 
 <br /> 
 
+The amazing talks at AppSecIL were reviewed and selected by the Content Committee, formed from a group of leading security experts. The Committee includes:
+
+{% for member in site.data.team.content %}
+ - {{ member.name }} ({{ member.title }})
+{% endfor %}
+
+<br /> 
+
 We also had a lot of help from volunteers, including: 
 
 {% for member in site.data.team.volunteers %}

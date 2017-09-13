@@ -24,6 +24,16 @@ board:
   role: Content Chair
   image: 
 
+content:
+- name: Irene Abezgouz
+  title: Cymmetria
+- name: Erez Metula
+  title: AppSec Labs
+- name: Iftach Ian Amit
+  title: Amazon / BSidesLV
+- name: Guy Mizrahi
+  title: RayZone
+
 volunteers:
 - name: Yigal Elefant
   title: Independent 
