@@ -19,13 +19,13 @@ board:
   title: Ben Gurion University
   role: Training Chair
   image: 
-- name: Irene Abezgouz
+- name: Irene Abezgauz
   title: Cymmetria
   role: Content Chair
   image: 
 
 content:
-- name: Irene Abezgouz
+- name: Irene Abezgauz
   title: Cymmetria
 - name: Erez Metula
   title: AppSec Labs
