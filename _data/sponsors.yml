@@ -35,8 +35,8 @@ silver:
   url  : https://comsecglobal.com/
   image: Comsec.jpg
 - name : Intel
-  url  : 
-  image: 
+  url  : https://www.intel.co.il/content/www/il/he/jobs/jobs-at-intel.html
+  image: Intel.png
 - name : Accenture
   url  : https://www.accenture.com/il-en/security-index
   image: Accenture.jpg
