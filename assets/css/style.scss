@@ -171,6 +171,22 @@ header {
   section {
     padding: 2em 4em;
 
+    div {
+      background: #fff;
+      min-height: 200px;
+      margin-bottom: 10px;
+      
+      hr {
+        border-width: 2px;
+        border-color:#000;
+      }
+
+      img {
+        margin: 10px;
+        display:inline;
+      }
+    }
+
     &.inverse {
       background-color: $medium;
       color: #fff;
@@ -311,9 +327,12 @@ footer {
     font-family: sans-serif; 
     line-height: 1.3; 
     color: black;
+    display: block;
   }
+  
   img {
     width: 180px;
     height: 80px;
+    margin-bottom: 20px;
   }
 }
