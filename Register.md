@@ -17,16 +17,21 @@ As space is limited, please do not register if you are not planning to attend, a
 
 ---
 
-#### ***When registering, there are several types of tickets:*** 
+### ***When registering, there are several types of tickets:*** 
+You must register individually for each event you want to attend.   
+(Please do not gratuitously register for events you do not plan to attend).  
 
-#### Training Day
-October 17th: A full day of free security training for developers, QA engineers, and anyone new to the AppSec field. 
+#### [Training Day](Training)
+Tuesday, October 17th: A full day of free security training for developers, QA engineers, and anyone new to the AppSec field. 
 
-#### Conference Day
-October 18th: Two exciting lecture tracks from an amazing group of speakers, and additional activities such as a Capture the Flag competition.   
+#### [Women in AppSec](WIA) - Ladies Only!
+Tuesday Evening, October 17th: This special session, open for women only, will take place after the Training Day. 
+
+#### [Conference Day](Agenda)
+Wednesday, October 18th: Two exciting lecture tracks from an amazing group of speakers, and additional activities such as a Capture the Flag competition.   
 We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.   
 
-<div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=37273659519&ref=etckt" frameborder="0" height="393" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=37273659519&ref=etckt" frameborder="0" height="460" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 <p style="text-align:center; margin: 0 auto;">
 <br />
