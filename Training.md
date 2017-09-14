@@ -8,7 +8,7 @@
 This training is aimed at developers, QA engineers, and beginners in the AppSec field.   
 The Training Day is free to attend, however [registration is required](Register) - we will enable registration soon. 
 
-**Date:** October 9, 2017  
+**Date:** October 17, 2017  
 **Time:** 9:00am - 5:00pm   
 **Location:** [College of Management in Rishon](Location).
 
