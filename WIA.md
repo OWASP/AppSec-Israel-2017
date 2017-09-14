@@ -21,4 +21,4 @@ Whether you're a student, a fresh graduate or already working in the industry, t
 This WIA event is being co-hosted with SheCodes Israel, and is organized by: 
 
 - Shira Shamban (Dome9, SheCodes)
-- Keren Elazari (Tel Aviv University)
+- Keren Elazari (Tel Aviv University, BSidesTLV)
