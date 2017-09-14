@@ -17,3 +17,8 @@ Part 2: Networking and mentoring with our amazing female-mentors.
 Whether you're a student, a fresh graduate or already working in the industry, this event is for you!  
 
 [Please register for a WIA ticket here](Register).
+
+This WIA event is being co-hosted with SheCodes Israel, and is organized by: 
+
+- Shira Shamban (Dome9, SheCodes)
+- Keren Elazari (Tel Aviv University)
