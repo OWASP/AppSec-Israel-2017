@@ -6,7 +6,9 @@
 **This year, we are adding a free, 1 day training event before the regular Conference.**   
 
 This training is aimed at developers, QA engineers, and beginners in the AppSec field.   
-The Training Day is free to attend, however [registration is required](Register) - we will enable registration soon. 
+(This training is **NOT** for experienced security professionals, please leave the limited seats for those who need it!)  
+
+The Training Day is free to attend, however [registration is required](Register). 
 
 **Date:** October 17, 2017  
 **Time:** 9:00am - 5:00pm   
@@ -33,7 +35,4 @@ In addition to AppSecIL, OWT Trainings will also take place in [Boston](https://
 
 In accordance with the organization's [2017 strategic goal](https://www.owasp.org/index.php/OWASP_Strategic_Goals), we are targeting an audience of 500 developers   
 for this Training Day, and it will be delivered by a Professional Trainer, hired by OWASP. 
-
-#### Registration  
-**A link to register for free will be here once registration is opened.**
 
