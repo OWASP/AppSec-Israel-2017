@@ -18,11 +18,11 @@ gold:
   url  : https://www.akamai.com/
   image: Akamai.png
 - name : PerimeterX
-  url  : 
-  image: 
+  url  : https://www.perimeterx.com/
+  image: PerimeterX.png
 - name : CyberArk
-  url  : 
-  image: 
+  url  : https://www.cyberark.com/
+  image: CyberArk.png
 
 silver: 
 - name : Twistlock
@@ -54,5 +54,10 @@ alacarte:
   image: Checkmarx.png
 - name : PerimeterX
   type : Speaker Shirts
-  url  : 
-  image: 
+  url  : https://www.perimeterx.com/
+  image: PerimeterX.png
+- name : Vata
+  type : Speaker Shirts
+  url  : https://www.vata.one/
+  image: Vata.png
+

@@ -290,28 +290,29 @@ footer {
 .sponsor {
     margin-left: auto;
     margin-right: auto;
+    overflow: none;
     img {
       border: none;
       vertical-align: middle;
     }
 }
 
-.diamond-sponsor img {
+.diamond-sponsor {
   width: 500px;
   height: 200px;
 }
 
-.platinum-sponsor img {
+.platinum-sponsor {
   width: 500px;
   height: 200px;
 }
 
-.gold-sponsor img {
+.gold-sponsor {
   width: 375px;
   height: 150px;
 }
 
-.silver-sponsor img {
+.silver-sponsor {
   width: 280px;
   height: 112px;
 }
