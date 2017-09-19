@@ -34,3 +34,4 @@ We also had a lot of help from volunteers, including:
  - {{ member.name }} ({{ member.title }}) - *{{ member.role }}*
 {% endfor %}
 
+In addition, logistics and operations were coordinated by Sarah Manning, from [Tikshoret.Biz](http://tikshoret.biz/).
