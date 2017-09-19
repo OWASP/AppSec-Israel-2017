@@ -19,7 +19,7 @@ For more details on the available sponsorship options please see [Conference Spo
 For more details and to confirm your sponsorship, please contact [Or Katz](mailto:katz3112@gmail.com). 
 
 ### Diamond Sponsor 
-<div>
+<div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.diamond %}
     <span class="sponsor diamond-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
@@ -34,7 +34,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 </div>
 
 #### Platinum Sponsors
-<div>
+<div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.platinum %}
     <span class="sponsor platinum-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
@@ -50,7 +50,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 
 
 ##### Gold Sponsors 
-<div>
+<div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.gold %}
     <span class="sponsor gold-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
@@ -66,7 +66,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 
 
 ###### Silver Sponsors
-<div>
+<div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.silver %}
     <span class="sponsor silver-sponsor">
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
@@ -81,7 +81,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 </div>
 
 ###### A La Carte Sponsorships
-<div>
+<div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.alacarte %}
     <span class="sponsor alacarte-sponsor">
       <span>{{ sponsor.type }}</span>  <hr />
