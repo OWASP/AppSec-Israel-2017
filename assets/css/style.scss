@@ -293,9 +293,9 @@ footer {
     display: inline-block;
     overflow: hidden;
   
-    img, a img {
+    img {
       border: none;
-      margin: none;
+      margin: 0;
       display: block;
       vertical-align: middle;
       max-width: 100%;
