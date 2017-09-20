@@ -22,7 +22,7 @@ gold:
   image: PerimeterX.png
 - name : CyberArk
   url  : https://www.cyberark.com/
-  image: CyberArk.png
+  image: Cyberark.png
 
 silver: 
 - name : Twistlock
@@ -46,6 +46,9 @@ silver:
 - name : SafeBreach
   url  : https://www.safebreach.com/
   image: SafeBreach.png
+- name : Cyber Jobs
+  url  : https://www.cyber-jobs.co.il/
+  image: CyberJobs.png
 
 alacarte:
 - name : Checkmarx
