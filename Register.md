@@ -27,7 +27,7 @@ Tuesday, October 17th: A full day of free security training for developers, QA e
 Details [here](Training).   
 
 #### [Women in AppSec](WIA) - Ladies Only!
-Tuesday Evening, October 17th: This special session, open for women only, will take place after the Training Day.  
+Tuesday Evening, October 17th: This special session, open for women (and female-identifying) only, will take place after the Training Day.  
 Details [here](WIA).   
 
 #### [Conference Day](Agenda)

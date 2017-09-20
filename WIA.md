@@ -3,7 +3,7 @@
 
 ## Women In AppSec - Ladies-only Evening event! 
 
-This special session, open for women only, will take place after the [Training Day](Training) on Tuesday, October 17th.   
+This special mentoring and career advice event, for female & female-identifying attendees only, will take place after the [Training Day](Training) on Tuesday, October 17th.   
 We expect the event to start at 17:30, and last for 2-3 hours. 
 
 This event will be divided into two parts:  
