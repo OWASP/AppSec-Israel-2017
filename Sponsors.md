@@ -14,7 +14,7 @@ Sponsorship also helps support the OWASP community, and ensures that we can keep
 
 We are now offering several tiers of premium sponsorship.   
 There is also a cost-effective “Community Supporter” option for non-profits, government offices, small startups, and such.   
-For more details on the available sponsorship options please see [Conference Sponsorships](https://github.com/OWASP/AppSec-Israel-2017/blob/master/assets/AppSecIL_2017_Sponsorships.pdf).
+For more details on the available sponsorship options please see [Conference Sponsorships]({{ site.url }}/assets/AppSecIL_2017_Sponsorships.pdf).
 
 For more details and to confirm your sponsorship, please contact [Or Katz](mailto:katz3112@gmail.com). 
 
