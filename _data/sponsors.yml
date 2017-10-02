@@ -1,65 +1,64 @@
 diamond:
 - name: GE Digital
   url: https://www.ge.com/digital/
-  image: GE_digital.png
-  
+  image: GE_digital_D.png
 gold:
 - name : Imperva
   url  : https://www.imperva.com/
-  image: Imperva.png
+  image: Imperva_G.png
 - name : Synopsys
   url  : https://www.synopsys.com/software/pages/default.aspx
-  image: synopsys.jpg
+  image: synopsys_G.jpg
 - name : WhiteSource
   url  : https://www.whitesourcesoftware.com/
-  image: Whitesource.png
+  image: Whitesource_G.png
 - name : Akamai
   url  : https://www.akamai.com/
-  image: Akamai.png
+  image: Akamai_G.png
 - name : PerimeterX
   url  : https://www.perimeterx.com/
-  image: PerimeterX.png
+  image: PerimeterX_G.png
 - name : CyberArk
   url  : https://www.cyberark.com/
-  image: Cyberark.png
+  image: Cyberark_G.png
 
 silver: 
 - name : Twistlock
   url  : https://www.twistlock.com/
-  image: Twistlock.png
+  image: Twistlock_S.png
 - name : Checkmarx
   url  : https://www.checkmarx.com/
-  image: Checkmarx.png
+  image: Checkmarx_S.png
 - name : Comsec Group
   url  : https://comsecglobal.com/
-  image: Comsec.jpg
+  image: Comsec_S.jpg
 - name : Intel
   url  : https://www.intel.co.il/content/www/il/he/jobs/jobs-at-intel.html
-  image: Intel.png
+  image: Intel_S.png
 - name : Accenture
   url  : https://www.accenture.com/il-en/security-index
-  image: Accenture.jpg
+  image: Accenture_S.jpg
 - name : AppSec Labs
   url  : https://www.appsec-labs.com/
-  image: AppSecLabs.jpg
+  image: AppSecLabs_S.jpg
 - name : SafeBreach
   url  : https://www.safebreach.com/
-  image: SafeBreach.png
+  image: SafeBreach_S.png
 - name : Cyber Jobs
   url  : https://www.cyber-jobs.co.il/
-  image: CyberJobs.png
+  image: CyberJobs_S.png
 
 alacarte:
 - name : Checkmarx
   type : Lanyards
   url  : https://www.checkmarx.com/
-  image: Checkmarx.png
+  image: Checkmarx_A3.png
 - name : PerimeterX
   type : Speaker Shirts
   url  : https://www.perimeterx.com/
-  image: PerimeterX.png
+  image: PerimeterX_A3.png
 - name : Vata
   type : Speaker Shirts
   url  : https://www.vata.one/
-  image: Vata.png
+  image: Vata_A3.png
 

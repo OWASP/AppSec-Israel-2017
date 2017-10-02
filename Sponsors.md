@@ -14,7 +14,7 @@ Sponsorship also helps support the OWASP community, and ensures that we can keep
 
 We are now offering several tiers of premium sponsorship.   
 There is also a cost-effective “Community Supporter” option for non-profits, government offices, small startups, and such.   
-For more details on the available sponsorship options please see [Conference Sponsorships]({{ site.url }}/assets/AppSecIL_2017_Sponsorships.pdf).
+For more details on the available sponsorship options please see [Conference Sponsorships](https://github.com/OWASP/AppSec-Israel-2017/blob/master/assets/AppSecIL_2017_Sponsorships.pdf).
 
 For more details and to confirm your sponsorship, please contact [Or Katz](mailto:katz3112@gmail.com). 
 
@@ -33,42 +33,28 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 {% endfor %}
 </div>
 
-#### Platinum Sponsors
-<div class="sponsor-tier">
-  {% for sponsor in site.data.sponsors.platinum %}
-    <span class="sponsor platinum-sponsor">
-      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == %}
-          <span>{{ sponsor.name }}</span>
-        {% else %} 
-          <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
-        {% endif %}
-      </a>
-    </span>
-{% endfor %}
-</div>
-
-
 ##### Gold Sponsors 
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.gold %}
-    <span class="sponsor gold-sponsor">
-      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-        {% if sponsor.image == %}
-          <span>{{ sponsor.name }}</span>
-        {% else %} 
-          <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
-        {% endif %}
-      </a>
-    </span>
-{% endfor %}
+    <tr>
+      <span class="sponsor gold-sponsor" vertical-align: text-top>
+        <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
+          {% if sponsor.image == %}
+            <span>{{ sponsor.name }}</span>
+          {% else %} 
+            <img src="assets/img/Sponsors/{{ sponsor.image }}">
+          {% endif %}
+        </a>
+      </span>
+    </tr>
+  {% endfor %}
 </div>
 
 
 ###### Silver Sponsors
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.silver %}
-    <span class="sponsor silver-sponsor">
+    <span class="sponsor silver-sponsor" vertical-align: text-top>
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
         {% if sponsor.image == %}
           <span>{{ sponsor.name }}</span>
@@ -83,7 +69,7 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 ###### A La Carte Sponsorships
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.alacarte %}
-    <span class="sponsor alacarte-sponsor">
+    <span class="sponsor alacarte-sponsor" vertical-align: text-top>
       <span>{{ sponsor.type }}</span>  <hr />
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
         {% if sponsor.image == %}
