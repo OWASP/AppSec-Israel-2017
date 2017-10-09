@@ -18,9 +18,10 @@ First place: **Mini Robot** | Second place: **PlayStation 4** | Third place: *
 
 ## CtF Workshops
 
-This year, we will have helpful Workshops, in addition to the CtF competition, also hosted by GE Digital. 
+This year, we will have supporting Workshops, in addition to the CtF competition, also hosted by GE Digital. 
 
-GE Digital security researchers will host several hands-on sessions, each focusing on a different advanced aspect of application security, in different phases of the application such as development and deployment. These Workshops will cover several critical vulnerabilities, while demonstrating them, explaining the root cause, and exploiting them in a hands-on lab, or directly in the CtF. 
+GE Digital security researchers will host several hands-on sessions, each focusing on a different advanced aspect of application security, in different phases of the application such as development and deployment.   
+At each Workshop you will have the opportunity to understand the root causes of a different set of vulnerabilities, see them demonstrated live, and actively exploit them yourself, either in a hands-on lab or directly in the CtF.
 
 Many of these issues are directly required in the CtF, and will be very helpful in successfully navigating through the CtF challenges. 
 
@@ -36,4 +37,4 @@ Attendees could gain a hands-on experience by attacking either the systems that 
 
 During the breaks you will have the opportunity to hear more from the security researchers about the security challenges in the exciting world of Industrial IoT, and cloud based environments. 
 
-[Click here for the Workshop content and schedule](https://owaspappsecisrael2017.sched.com/overview/type/Workshop). 
+[Click here for the Workshop content and to sign up for each session](https://owaspappsecisrael2017.sched.com/overview/type/Workshop). 
