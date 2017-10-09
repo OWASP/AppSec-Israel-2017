@@ -25,16 +25,10 @@ At each Workshop you will have the opportunity to understand the root causes of 
 
 Many of these issues are directly required in the CtF, and will be very helpful in successfully navigating through the CtF challenges. 
 
-The following sessions will take place:
-
-- Breaking Clouds
-
-- Cache me if you can
-
-- Exploiting Authentication Issues For Fun And 25,000$
+<a id="sched-embed" data-sched-sidebar="no" data-sched-bg="dark" href="https://owaspappsecisrael2017.sched.com/overview/type/Workshop">View the OWASP AppSec Israel 2017 mobile app</a><script type="text/javascript" src="https://owaspappsecisrael2017.sched.com/js/embed.js"></script>
 
 Attendees could gain a hands-on experience by attacking either the systems that were built for the Workshop or the CtF's challenges.
 
 During the breaks you will have the opportunity to hear more from the security researchers about the security challenges in the exciting world of Industrial IoT, and cloud based environments. 
 
-[Click here for the Workshop content and to sign up for each session](https://owaspappsecisrael2017.sched.com/overview/type/Workshop). 
+
