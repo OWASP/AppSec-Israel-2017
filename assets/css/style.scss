@@ -56,7 +56,6 @@ h3 {
 
 h4 {
   font-size: 110%;
-  color: $light;
 }
 
 p {
@@ -173,7 +172,6 @@ header {
 
     div {
       background: $medium;
-      min-height: 200px;
       margin-bottom: 10px;
       
       hr {
@@ -285,6 +283,7 @@ footer {
 
 .sponsor-tier {
     text-align: center;
+    padding-bottom: 40px;
 }
 
 .sponsor {
