@@ -7,7 +7,9 @@ This year we will be hosting a Capture the Flag (CtF) competition and applicatio
 
 This time GE Digital will host the CTF competition! The CTF will feature all sorts of challenges where you will have the opportunity to show your skills and win great prizes.  
 
-Amongst the challenges you will be able to find web exploitations, reverse engineering, crypto and many more challenges. Competitors could use the knowledge from the "CtF Workshops" to solve some of the challenges.
+Amongst the challenges you will be able to find web exploitations, reverse engineering, crypto and many more challenges. Competitors could use the knowledge from the "CtF Workshops" to solve some of the challenges. 
+
+**Requirements:** Laptop. 
 
 ### Prizes
 
@@ -31,4 +33,4 @@ Attendees could gain a hands-on experience by attacking either the systems that 
 
 During the breaks you will have the opportunity to hear more from the security researchers about the security challenges in the exciting world of Industrial IoT, and cloud based environments. 
 
-
+Laptop required. 
