@@ -18,6 +18,7 @@ For more details on the available sponsorship options please see [Conference Spo
 
 For more details and to confirm your sponsorship, please contact [Or Katz](mailto:katz3112@gmail.com). 
 
+
 ### Diamond Sponsor 
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.diamond %}
@@ -33,10 +34,10 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
 {% endfor %}
 </div>
 
-##### Gold Sponsors 
+
+#### Gold Sponsors 
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.gold %}
-    <tr>
       <span class="sponsor gold-sponsor" vertical-align: text-top>
         <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
           {% if sponsor.image == %}
@@ -46,15 +47,30 @@ For more details and to confirm your sponsorship, please contact [Or Katz](mailt
           {% endif %}
         </a>
       </span>
-    </tr>
   {% endfor %}
 </div>
 
 
-###### Silver Sponsors
+##### Silver Sponsors
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.silver %}
     <span class="sponsor silver-sponsor" vertical-align: text-top>
+      <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
+        {% if sponsor.image == %}
+          <span>{{ sponsor.name }}</span>
+        {% else %} 
+          <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+        {% endif %}
+      </a>
+    </span>
+{% endfor %}
+</div>
+
+
+###### Community Supporters
+<div class="sponsor-tier">
+  {% for sponsor in site.data.sponsors.community %}
+    <span class="sponsor community-sponsor" vertical-align: text-top>
       <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
         {% if sponsor.image == %}
           <span>{{ sponsor.name }}</span>

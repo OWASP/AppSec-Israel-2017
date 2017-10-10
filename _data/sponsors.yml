@@ -48,6 +48,11 @@ silver:
   url  : https://www.cyber-jobs.co.il/
   image: CyberJobs_S.png
 
+community:
+- name : SheCodes
+  url  : http://www.she-codes.org/
+  image: SheCodes.png
+
 alacarte:
 - name : Checkmarx
   type : Lanyards
