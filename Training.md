@@ -6,7 +6,7 @@
 **This year, we are adding a free, 1 day training event before the regular Conference.**   
 
 This training is **NOT** for security experts with many years of experience, but for the rest of us:   
-This is a hands-on, crash course in application security for developers, QA engineers, and beginners in the AppSec field! 
+This is a hands-on, crash course in application security for developers, QA engineers, and anyone new to the AppSec field! 
 
 The Training Day is free to attend, however [registration is required](Register). 
 
@@ -18,6 +18,7 @@ The Training Day is free to attend, however [registration is required](Register)
 
 Application-level attacks have become the typical organization daily routine, with numerous automated attack &   
 exploitation engines from anywhere in the globe constantly scanning web sites, web services and external interfaces.  
+
 Ever wondered how it’s done? Having dreams of being a professional hacker? or of being able to fortify your   
 apps against them? Need to fund your beer with bug bounty prizes?
 
@@ -25,20 +26,31 @@ This crash course trains the participants in the basic toolset, in penetration t
 It will cover the methodologies, common toolsets and over 7+ different high impact attack vectors, as well as the   
 code-level techniques required to mitigate these attacks.
 
-#### Goals
+#### Goals   
 
-The Training aims to introduce the audience into the field of application-level attacks and white-hat hacking   
-methodologies, as well as the equivalent secure coding best-practices, and provide the basic tools, understanding   
+The Training aims to introduce the audience into the field of **application-level attacks** and **white-hat hacking   
+methodologies**, as well as the corresponding **secure coding best-practices**, and provide the basic tools, understanding   
 and processes required for assessing the security of modern web applications.   
 
-Its aim is to enable trainees get the initial understanding and hands-on skills required to find their path in the appsec field,   
+It's aim is to enable trainees get the initial understanding and hands-on skills required to find their path in the appsec field,   
 whether as an appsec professional or as a developer of secure, resilient, and robust code. 
+
+The course will train the participants to identify several common AND critical vulnerabilities, 
+as well as mitigate these vulnerabilities in the application code.
+
+--- 
+
+#### Requirements   
+
+- Personal Laptop (any modern OS)
+- Software: Modern web browser (e.g. Chrome, Firefox); OWASP ZAP Proxy
 
 ---
 
-#### Schedule 
-The Training day will commence at 9:00.  
-We will have a lunch break between 12:00-13:30.   
+#### Schedule   
+
+The Training day will commence at 9:00. 
+We will have a lunch break between 12:30-14:00.   
 There is an adjacent food court, and several other great restaurants nearby.   
 Alternatively, you are welcome to pack your own lunch.    
 We are scheduled to complete the training by 17:30.  
