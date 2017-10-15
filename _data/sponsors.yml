@@ -77,7 +77,7 @@ alacarte:
 - name : Microsoft
   url  : https://www.bluehatil.com
   image: Microsoft.png
-  type : Women In AppSec
+  type : WIA
 - name : Dome9
   type : T-Shirts
   url  : https://dome9.com/
@@ -87,10 +87,10 @@ alacarte:
   url  : https://www.checkpoint.com/
   image: Checkpoint.jpg
 - name : PerimeterX
-  type : Speaker Shirts
+  type : T-Shirts
   url  : https://www.perimeterx.com/
   image: PerimeterX.png
 - name : Vata
-  type : Speaker Shirts
+  type : T-Shirts
   url  : https://www.vata.one/
   image: Vata.png
