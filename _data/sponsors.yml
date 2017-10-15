@@ -47,17 +47,45 @@ silver:
 - name : Cyber Jobs
   url  : https://www.cyber-jobs.co.il/
   image: CyberJobs.png
+- name : Microsoft
+  url  : https://www.bluehatil.com
+  image: Microsoft.png
+- name : Ben Gurion University
+  url  : http://in.bgu.ac.il/engn/sise/Pages/MScSpecializationCSS.aspx
+  image: BGU.png
 
 community:
 - name : SheCodes
   url  : http://www.she-codes.org/
   image: SheCodes.png
+- name : Check Point
+  url  : https://www.checkpoint.com/
+  image: Checkpoint.jpg
+- name : Tufin
+  url  : https://www.tufin.com/
+  image: Tufin.jpg
 
 alacarte:
 - name : Checkmarx
   type : Lanyards
   url  : https://www.checkmarx.com/
   image: Checkmarx.png
+- name : Check Point
+  type : Badges
+  url  : https://www.checkpoint.com/
+  image: Checkpoint.jpg
+- name : Microsoft
+  url  : https://www.bluehatil.com
+  image: Microsoft.png
+  type : Women In AppSec
+- name : Dome9
+  type : T-Shirts
+  url  : https://dome9.com/
+  image: Dome9.png
+- name : Check Point
+  type : T-Shirts
+  url  : https://www.checkpoint.com/
+  image: Checkpoint.jpg
 - name : PerimeterX
   type : Speaker Shirts
   url  : https://www.perimeterx.com/
@@ -66,4 +94,3 @@ alacarte:
   type : Speaker Shirts
   url  : https://www.vata.one/
   image: Vata.png
-
