@@ -1,52 +1,52 @@
 diamond:
 - name: GE Digital
   url: https://www.ge.com/digital/
-  image: GE_digital_D.png
+  image: GE_digital.png
 gold:
 - name : Imperva
   url  : https://www.imperva.com/
-  image: Imperva_G.png
+  image: Imperva.png
 - name : Synopsys
   url  : https://www.synopsys.com/software/pages/default.aspx
-  image: synopsys_G.jpg
+  image: synopsys.jpg
 - name : WhiteSource
   url  : https://www.whitesourcesoftware.com/
-  image: Whitesource_G.png
+  image: Whitesource.png
 - name : Akamai
   url  : https://www.akamai.com/
-  image: Akamai_G.png
+  image: Akamai.png
 - name : PerimeterX
   url  : https://www.perimeterx.com/
-  image: PerimeterX_G.png
+  image: PerimeterX.png
 - name : CyberArk
   url  : https://www.cyberark.com/
-  image: Cyberark_G.png
+  image: Cyberark.png
 
 silver: 
 - name : Twistlock
   url  : https://www.twistlock.com/
-  image: Twistlock_S.png
+  image: Twistlock.png
 - name : Checkmarx
   url  : https://www.checkmarx.com/
-  image: Checkmarx_S.png
+  image: Checkmarx.png
 - name : Comsec Group
   url  : https://comsecglobal.com/
-  image: Comsec_S.jpg
+  image: Comsec.jpg
 - name : Intel
   url  : https://www.intel.co.il/content/www/il/he/jobs/jobs-at-intel.html
-  image: Intel_S.png
+  image: Intel.png
 - name : Accenture
   url  : https://www.accenture.com/il-en/security-index
-  image: Accenture_S.jpg
+  image: Accenture.jpg
 - name : AppSec Labs
   url  : https://www.appsec-labs.com/
-  image: AppSecLabs_S.jpg
+  image: AppSecLabs.jpg
 - name : SafeBreach
   url  : https://www.safebreach.com/
-  image: SafeBreach_S.png
+  image: SafeBreach.png
 - name : Cyber Jobs
   url  : https://www.cyber-jobs.co.il/
-  image: CyberJobs_S.png
+  image: CyberJobs.png
 
 community:
 - name : SheCodes
@@ -57,13 +57,13 @@ alacarte:
 - name : Checkmarx
   type : Lanyards
   url  : https://www.checkmarx.com/
-  image: Checkmarx_A3.png
+  image: Checkmarx.png
 - name : PerimeterX
   type : Speaker Shirts
   url  : https://www.perimeterx.com/
-  image: PerimeterX_A3.png
+  image: PerimeterX.png
 - name : Vata
   type : Speaker Shirts
   url  : https://www.vata.one/
-  image: Vata_A3.png
+  image: Vata.png
 
