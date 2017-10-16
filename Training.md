@@ -11,7 +11,7 @@ This is a hands-on, crash course in application security for developers, QA engi
 The Training Day is free to attend, however [registration is required](Register). 
 
 **Date:** October 17, 2017  
-**Time:** 9:00am - 5:00pm   
+**Time:** 9:00am - 5:30pm   
 **Location:** [College of Management in Rishon](Location).
 
 ### What is this Training about? 
