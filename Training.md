@@ -26,7 +26,7 @@ This crash course trains the participants in the basic toolset, in penetration t
 It will cover the methodologies, common toolsets and over 7+ different high impact attack vectors, as well as the   
 code-level techniques required to mitigate these attacks.
 
-#### Goals   
+### Goals   
 
 The Training aims to introduce the audience into the field of **application-level attacks** and **white-hat hacking   
 methodologies**, as well as the corresponding **secure coding best-practices**, and provide the basic tools, understanding   
@@ -37,7 +37,7 @@ whether as an appsec professional or as a developer of secure, resilient, and ro
 
 --- 
 
-#### Requirements   
+### Requirements   
 
 Personal Laptop (any modern OS) with the following software downloaded and installed in advance: 
 
@@ -52,7 +52,7 @@ It is also recommended to bring a paper notebook and pen.
 
 ---
 
-#### Schedule   
+### Schedule   
 
 The Training day will commence at 9:00. 
 We will have a lunch break between 12:30-14:00.   
@@ -64,7 +64,7 @@ Coffee and cold drinks will be provided throughout the day, as well as an aftern
 
 ---
 
-#### Tower Attack & Defense
+### Tower Attack & Defense
 
 The course will train the participants to identify several common AND critical vulnerabilities, 
 as well as mitigate these vulnerabilities in the application code.   
