@@ -14,7 +14,9 @@ Remember to bring your resume or CV with you! (Preferably paper printout, as tha
 
 This time GE Digital will host the CTF competition! The CTF will feature all sorts of challenges where you will have the opportunity to show your skills and win great prizes.  
 
-Amongst the challenges you will be able to find web exploitations, reverse engineering, crypto and many more challenges. Competitors could use the knowledge from the "CtF Workshops" to solve some of the challenges. 
+Amongst the challenges you will be able to find web exploitations, reverse engineering, crypto and many more challenges. Competitors could use the knowledge from the "CtF Workshops" to solve some of the challenges.   
+
+Access the CTF website online, and register your team here: https://www.owaspctf17.pro/
 
 **Requirements:** Laptop. 
 
