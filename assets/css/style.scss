@@ -298,6 +298,10 @@ footer {
       max-height: 100%;
       vertical-align: middle;
     }
+    
+    img:hover {
+      box-shadow: 0 0 5px 5px rgba(255, 255, 255, 5);
+    }
 }
 .sponsor:hover {
   box-shadow: 0 0 5px 5px rgba(255, 255, 255, 5);
@@ -368,6 +372,10 @@ footer {
     border: 2px solid black;
     margin-top: 3px;
     margin-bottom: 3px;
+  }
+  
+  img {
+    border: 2px solid black;
   }
   
 }
